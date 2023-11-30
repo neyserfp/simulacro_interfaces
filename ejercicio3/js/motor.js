@@ -41,8 +41,8 @@ window.addEventListener("load", function(){
         }
     }
 
-    function mostrarInformacion(holaS){
-        console.log("Nombre: "+holaS.nombre);
+    function mostrarInformacion(hola){
+        console.log("Nombre: "+hola.nombre);
         console.log("Edad: "+hola.edad);
         let calificaciones = hola.calificaciones;
         console.log("Matemáticas: "+calificaciones["matematicas"]);
