@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Juan Perez",
+        "edad": "20",
+        "calificaciones": {
+            "matematicas": 95,
+            "historia": 85,
+            "ciencias": 90
+          },
+          "detalles": {
+            "grupo": "A",
+            "correo": "juan@example.com",
+            "telefono": "123456789"
+          }
+    },
+    {
+        "nombre": "María Garcia",
+        "edad": 22,
+        "calificaciones": {
+          "matematicas": 80,
+          "historia": 75,
+          "ciencias": 85
+        },
+        "detalles": {
+          "grupo": "B",
+          "correo": "maria@example.com",
+          "telefono": "987654321"
+        }
+      },
+      {
+        "nombre": "Pedro Suarez",
+        "edad": 19,
+        "calificaciones": {
+          "matematicas": 92,
+          "historia": 88,
+          "ciencias": 91
+        },
+        "detalles": {
+          "grupo": "A",
+          "correo": "pedro@example.com",
+          "telefono": "555555555"
+        }
+      }
+]

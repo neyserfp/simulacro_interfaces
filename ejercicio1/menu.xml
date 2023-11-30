@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<platos>
+    <plato id ="1">
+        <nombre>Gofres Belgas</nombre>
+        <precio>5.95</precio>
+        <descripcion>Dos de nuestros famosos Gofres Belgas con abundante sirope</descripcion>
+        <informacion>650</informacion>
+    </plato>
+    <plato id ="2">
+        <nombre>Gofres Belgas con fresas</nombre>
+        <precio>7.95</precio>
+        <descripcion>Ligeros gofres belgas cubiertos con fresas y nata montada</descripcion>
+        <informacion>700</informacion>
+    </plato>
+    <plato id ="3">
+        <nombre>Gofres Belgas con frutas del bosque</nombre>
+        <precio>8.95</precio>
+        <descripcion>Ligeros gofres belgas cubiertos con frutas del bosque y nata montada</descripcion>
+        <informacion>900</informacion>
+    </plato>
+    <plato id ="4">
+        <nombre>Tostada Francesa</nombre>
+        <precio>4.50</precio>
+        <descripcion>Dos gruesas rebanadas de nuestro pan francés casero</descripcion>
+        <informacion>600</informacion>
+    </plato>
+    <plato id ="5">
+        <nombre>Desayuno de la casa</nombre>
+        <precio>6.95</precio>
+        <descripcion>Dos huevos,bacon o salchicha,tostada y patatas fritas</descripcion>
+        <informacion>950</informacion>
+    </plato>
+</platos>
